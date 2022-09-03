@@ -14,3 +14,7 @@
 ### Create an infinite scrolling ListView
 
 ![](images/4.JPG)
+
+### Next steps
+
+![](images/5.JPG)
