@@ -18,3 +18,5 @@
 ### Next steps
 
 ![](images/5.JPG)
+
+![](images/6.JPG)
